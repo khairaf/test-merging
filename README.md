@@ -1,4 +1,6 @@
 # test-merging
 
 
-ini ada
+ini ada s
+
+ini ga ada
