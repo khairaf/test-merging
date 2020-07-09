@@ -1,8 +1,8 @@
 # test-merging
 
 
-ini ada s
+ini ada sl
 
-ini ga ada
+ini ga adal
 
-ini ada z
+ini ada xxl
