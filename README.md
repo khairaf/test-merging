@@ -12,3 +12,7 @@ ini ada z
  https://o7planning.org/en/11325/installing-and-configuring-postgresql-database-on-ubuntu
 
 https://www.similarweb.com/
+
+hilang 1
+
+hilang 2
